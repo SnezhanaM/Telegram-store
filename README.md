@@ -12,7 +12,7 @@ to the cart and place an order. Then the user fills in the data about himself,
 if he has already bought in this store, then he checks the data.
 Then the data about the user is sent to the admin.
 
-<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/user_interface.gif" width="250" height="250"/>
+<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/user_interface.gif" width="200" height="400"/>
 ______
 
 ## Admin interface
