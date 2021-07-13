@@ -119,7 +119,7 @@ def callback_inline(call):
 
     elif call.data == 'yes_order':
         button = types.ReplyKeyboardMarkup(True, True)
-        button.row('Да, конечно!')
+        button.row('Да, заказать!')
 
         bot.send_message(call.message.chat.id, 'Спасибо за Ваш заказ!', reply_markup=button)
 
