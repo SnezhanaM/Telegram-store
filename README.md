@@ -12,7 +12,7 @@ to the cart and place an order. Then the user fills in the data about himself,
 if he has already bought in this store, then he checks the data.
 Then the data about the user is sent to the admin.
 
-<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/user_interface.gif" width="210" height="400"/>
+<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/pictures/user_interface.gif" width="210" height="400"/>
 
 
 ## Admin interface
@@ -22,5 +22,5 @@ It also receives data about customer orders.
 All customer data is stored in users.db.
 The library sqlite3 is used to work with databases.
 
-<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/admin_interface.gif" width="210" height="400"/>
+<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/pictures/admin_interface.gif" width="210" height="400"/>
 
