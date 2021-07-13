@@ -20,3 +20,5 @@ You need change the test_id in config.py to your own, to enter from the admin pa
 The admin can manually enter product data.
 It also receives data about customer orders.
 
+<img src="https://github.com/SnezhanaM/Telegram-store/blob/main/admin_interface.gif" width="200" height="400"/>
+______
