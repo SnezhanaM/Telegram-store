@@ -11,6 +11,8 @@ The user can view all products, depending on the category, add the desired ones
 to the cart and place an order. Then the user fills in the data about himself,
 if he has already bought in this store, then he checks the data.
 Then the data about the user is sent to the admin.
+
+![](https://github.com/SnezhanaM/Telegram-store/blob/main/user_interface.gif)
 ______
 
 ## Admin interface
