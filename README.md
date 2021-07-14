@@ -2,7 +2,7 @@
 
 Telegram store is a telegram bot allowing to sell xiaomi products stored in data base to user.
 
-##Usage:
+## Usage:
 ```python
 python main.py
 ```
