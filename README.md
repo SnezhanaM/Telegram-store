@@ -1,4 +1,4 @@
-# TELEGRAM-BOT TO XIAOMI STORE
+# TELEGRAM-BOT "XIAOMI STORE"
 
 Telegram store is a telegram bot allowing to sell xiaomi products stored in data base to user.
 
