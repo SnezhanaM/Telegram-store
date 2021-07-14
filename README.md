@@ -1,6 +1,8 @@
 # TELEGRAM-BOT TO XIAOMI STORE
 
-Start the bot:
+Telegram store is a telegram bot allowing to sell xiaomi products stored in data base to user.
+
+##Usage:
 ```python
 python main.py
 ```
